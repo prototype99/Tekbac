@@ -1,10 +1,13 @@
 # Tekbac
-Google Colab Notebooks
 
-These notebooks have been written for the Tekbac workshop in Singapore on 13-15 April 2020:
+Google Colab Notebooks: https://colab.research.google.com/
 
-ARTIFICIAL INTELLIGENCE PROGRAMMING and SCIENTIFIC COMPUTING in PYTHON with an INTRODUCTION to TENSORFLOW
+Download the files on to your computer and Upload them to Colab.
 
-These notebooks cover Day 3.
+These notebooks have been written for my international worshops:
+
+PYTHON for SCIENTIFIC COMPUTING and TENSORFLOW for ARTIFICIAL INTELLIGENCE
+
+These notebooks cover Days 4 and 5 of the workshop.
 
 Dr Stephen Lynch FIMA SFHEA
